@@ -4,6 +4,7 @@ Refactoring Horiseon webpage for accessibility
 In refactoring the html and css for the Horiseon webpage I started at the top and addressed the html first. 
 
 The main html items addressd were:
+* Updated the title to be more consice and descriptive
 * Creating semantic html tags to replace the <div> tags
 * Updating the links so they all worked (one needed an id added)
 * Adding titles to links and alt to photos
